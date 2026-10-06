@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/prakashmalladhi47-source/LeetCode/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/prakashmalladhi47-source/LeetCode/tree/master/0204-count-primes) |
+| [1480-running-sum-of-1d-array](https://github.com/prakashmalladhi47-source/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/prakashmalladhi47-source/LeetCode/tree/master/0078-subsets) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/prakashmalladhi47-source/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
